@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git test
 Git test5
 checkout dev
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
